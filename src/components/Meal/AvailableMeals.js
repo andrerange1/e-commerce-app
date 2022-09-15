@@ -4,6 +4,12 @@ import MealItem from "./MealItem/MealItem";
 
 const DUMMY_MEALS = [
   {
+    id: "a1",
+    name: "Milho verde da Ana",
+    description: "O prato com mais milho que você vai ver na vida",
+    price: 10.99,
+  },
+  {
     id: "m1",
     name: "Sushi",
     description: "Finest fish and veggies",
